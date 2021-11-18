@@ -1,0 +1,7 @@
+# PostgreSQL
+# ------------------------------------------------------------------------------
+POSTGRES_HOST=postgres
+POSTGRES_PORT=5432
+POSTGRES_DB=certificatex_api
+POSTGRES_USER=qIuBuEEamjUIwBTHGdbxVjDaLMucbDlQ
+POSTGRES_PASSWORD=BDogo5xdNOQcLXb0vzq4fn4locUqemoCWUTwTPzNNS1w2Y8N87NTJWTjiIpWQFV5
